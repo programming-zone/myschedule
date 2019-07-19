@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myschedule/static/css/main.2cce8147.chunk.css",
+    "main.js": "/myschedule/static/js/main.f5d29bc8.chunk.js",
+    "main.js.map": "/myschedule/static/js/main.f5d29bc8.chunk.js.map",
+    "runtime~main.js": "/myschedule/static/js/runtime~main.113e0055.js",
+    "runtime~main.js.map": "/myschedule/static/js/runtime~main.113e0055.js.map",
+    "static/js/2.b41502e9.chunk.js": "/myschedule/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/myschedule/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/myschedule/index.html",
+    "precache-manifest.ddea8530ccc74bc17c33eb7b43242767.js": "/myschedule/precache-manifest.ddea8530ccc74bc17c33eb7b43242767.js",
+    "service-worker.js": "/myschedule/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/myschedule/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/myschedule/static/media/logo.5d5d9eef.svg"
+  }
+}
