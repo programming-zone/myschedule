@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myschedule/static/css/main.d49bfc0c.chunk.css",
+    "main.css": "/myschedule/static/css/main.b025ae76.chunk.css",
     "main.js": "/myschedule/static/js/main.5cedba02.chunk.js",
     "main.js.map": "/myschedule/static/js/main.5cedba02.chunk.js.map",
     "runtime~main.js": "/myschedule/static/js/runtime~main.113e0055.js",
@@ -8,8 +8,8 @@
     "static/js/2.3310f33a.chunk.js": "/myschedule/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/myschedule/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/myschedule/index.html",
-    "precache-manifest.1736109c0a6206d096f1064be1d20a41.js": "/myschedule/precache-manifest.1736109c0a6206d096f1064be1d20a41.js",
+    "precache-manifest.c95b73fd01408df1ddb47c10c6852f35.js": "/myschedule/precache-manifest.c95b73fd01408df1ddb47c10c6852f35.js",
     "service-worker.js": "/myschedule/service-worker.js",
-    "static/css/main.d49bfc0c.chunk.css.map": "/myschedule/static/css/main.d49bfc0c.chunk.css.map"
+    "static/css/main.b025ae76.chunk.css.map": "/myschedule/static/css/main.b025ae76.chunk.css.map"
   }
 }
