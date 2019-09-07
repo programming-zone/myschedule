@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3138a8c1a42f07c694c386680fbca9f4",
+    "revision": "b654d8fa41436b47a4790a9e8579284d",
     "url": "/myschedule/index.html"
   },
   {
-    "revision": "cfa276de64d74bb05e9b",
+    "revision": "c51e617bdebe38f2fdcc",
     "url": "/myschedule/static/css/main.38b9e35d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myschedule/static/js/2.e703e8cc.chunk.js"
   },
   {
-    "revision": "cfa276de64d74bb05e9b",
-    "url": "/myschedule/static/js/main.3348f19e.chunk.js"
+    "revision": "c51e617bdebe38f2fdcc",
+    "url": "/myschedule/static/js/main.d7e0c346.chunk.js"
   },
   {
     "revision": "ed76a72e39873399cff8",
