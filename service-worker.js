@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/myschedule/precache-manifest.5afc1e2bdca9ad5e88e4545a8ad3552a.js"
+  "/myschedule/precache-manifest.a82fcf8e51c7ec6932493448c2f78caa.js"
 );
 
 self.addEventListener('message', (event) => {
