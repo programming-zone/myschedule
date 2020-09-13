@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myschedule/static/css/main.633c665d.chunk.css",
-    "main.js": "/myschedule/static/js/main.9daf30ea.chunk.js",
-    "main.js.map": "/myschedule/static/js/main.9daf30ea.chunk.js.map",
+    "main.css": "/myschedule/static/css/main.86e77ec8.chunk.css",
+    "main.js": "/myschedule/static/js/main.bdf5ebd9.chunk.js",
+    "main.js.map": "/myschedule/static/js/main.bdf5ebd9.chunk.js.map",
     "runtime-main.js": "/myschedule/static/js/runtime-main.cea12256.js",
     "runtime-main.js.map": "/myschedule/static/js/runtime-main.cea12256.js.map",
     "static/js/2.be541b30.chunk.js": "/myschedule/static/js/2.be541b30.chunk.js",
     "static/js/2.be541b30.chunk.js.map": "/myschedule/static/js/2.be541b30.chunk.js.map",
     "index.html": "/myschedule/index.html",
-    "precache-manifest.e2b05ae420cabaa9b04aee3d5ab1da94.js": "/myschedule/precache-manifest.e2b05ae420cabaa9b04aee3d5ab1da94.js",
+    "precache-manifest.ed65a500f569aba3f2d03c61536c9d1b.js": "/myschedule/precache-manifest.ed65a500f569aba3f2d03c61536c9d1b.js",
     "service-worker.js": "/myschedule/service-worker.js",
-    "static/css/main.633c665d.chunk.css.map": "/myschedule/static/css/main.633c665d.chunk.css.map",
+    "static/css/main.86e77ec8.chunk.css.map": "/myschedule/static/css/main.86e77ec8.chunk.css.map",
     "static/js/2.be541b30.chunk.js.LICENSE.txt": "/myschedule/static/js/2.be541b30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cea12256.js",
     "static/js/2.be541b30.chunk.js",
-    "static/css/main.633c665d.chunk.css",
-    "static/js/main.9daf30ea.chunk.js"
+    "static/css/main.86e77ec8.chunk.css",
+    "static/js/main.bdf5ebd9.chunk.js"
   ]
 }
